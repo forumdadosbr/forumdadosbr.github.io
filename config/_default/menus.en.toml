@@ -1,0 +1,66 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Sobre"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Quem Somos"
+url = "authors/"
+weight = 3
+
+[[main]] 
+name = "Blog"
+url = "blog/"
+weight = 4
+
+
+#[[main]]
+#weight = 5
+#name = "Pages"
+#hasChildren = true
+
+
+#[[main]]
+#parent = "Pages"
+#name = "Contact"
+#url = "contact/"
+
+#[[main]]
+#parent = "Pages"
+#name = "Authors"
+#url = "authors/"
+
+#[[main]]
+#parent = "Pages"
+#name = "Categories"
+#url = "categories/"
+
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "Sobre"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Quem Somos"
+url = "Authors/"
+weight = 2
+
+[[footer]]
+name = "Politica de Privacidade"
+url = "privacy-policy/"
+weight = 3
